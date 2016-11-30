@@ -1,5 +1,7 @@
 package hu.esamu.rft.esamurft;
 
+import android.app.FragmentManager;
+import android.app.FragmentTransaction;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
@@ -25,7 +27,6 @@ public class ControlActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_control);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
@@ -58,7 +59,18 @@ public class ControlActivity extends AppCompatActivity {
                 break;
             case (R.id.action_camera):
                 Log.d(this.getClass().getName(), "Camera Options Menu");
-                dispatchTakePictureIntent();
+                //dispatchTakePictureIntent();
+                //this.startActivity(new Intent(this, CameraActivity.class));
+                //setContentView(R.layout.activity_camera);
+
+
+                FragmentManager fragmentManager = getFragmentManager();
+                FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+                CameraFragment cf = new CameraFragment();
+                fragmentTransaction.replace(R.id.content_control, cf);
+                fragmentTransaction.commit();
+                //setContentView(R.layout.camera_fragment);
+
                 break;
             case (R.id.action_recipes):
                 Log.d(this.getClass().getName(), "Recipes Options Menu");
