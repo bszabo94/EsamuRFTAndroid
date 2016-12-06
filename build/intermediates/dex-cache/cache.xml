@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_a87b6ad7699926093ea1399db3346f51d8ca79d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f0effb994ef74402b713de892aca39881c1e74d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4aea73736630f59b187350e9a6ca5050e37d6582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_00d7108da42baa913222d25cfdcead6342ac3222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_6120ba83cb536760a8d583fc9b95822a63710e0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_35c0360cf71b884b14d8c419563d46ca36633f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_10cce0408f5da57a12f8337f8290f387a83b7e2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_7a5dd9551a429776fbd1fbd38c872bb34a86f017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.6.1_4c68595424bc2531b43676a16bd650c5017dcc9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.1_31e67ba5d7ab0335802334efaf2f74b58cfc964f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_23e80658c8967ac7984109b1050da46767c756bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_017fd6343393b395a243ae3e6125169548c8d2d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_66a2bbb9b3fcaa0460c572aca20a88190f5eae33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_61dd9c5af8f00524a661ce709bb9946f09ddc3e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_a16b3b1bdc62d84ad42c67d98d67328c46710c8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_7f3f673dc00828c8f51e70a9346aa26bb0294bf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.1_a84196f69fd0f54efd5d829df0b762de956aa609.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4238e42a1bddc86cb8f1618a39baa4ed3a37668e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_d9dffb193ddf954a50a52db9ca6862067dbc0ba8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_10f5b219677dff9c02d155b5c3376f625b7edcd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_a767f1d68add8ea1f79e78d117bd8bf168f9cea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_a22acfc8848aadb11da54d140dadfd23aa7dffb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.1.0/e13484d9da178399d32d2d27ee21a77cfb4b7873/protobuf-java-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e13484d9da178399d32d2d27ee21a77cfb4b7873">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/protobuf-java-3.1.0_5131dc8d7c30c1c47b59a9b2ba6cd2d1172d037c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.6.1_7013ca254fb04533f0093c36bc8b369082042c4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/bszabo/uni/rft/EsamuRFTAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5ff5df02ed40a02c11fda731fd1d22ea88598c31.jar" />
+    </item>
+
+</items>

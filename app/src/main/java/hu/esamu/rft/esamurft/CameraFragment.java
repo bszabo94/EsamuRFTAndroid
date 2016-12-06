@@ -12,7 +12,6 @@ import android.hardware.camera2.*;
 import android.os.Environment;
 import android.os.Handler;
 import android.os.HandlerThread;
-import android.support.annotation.Nullable;
 import android.util.Log;
 import android.util.Size;
 import android.util.SparseIntArray;
@@ -32,8 +31,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
-
-import hu.esamu.rft.esamurft.R;
 
 public class CameraFragment extends Fragment {
 
@@ -111,11 +108,11 @@ public class CameraFragment extends Fragment {
                 }
                 void save(byte[] bytes)
                 {
-                    File file12=getOutputMediaFile();
+                    File oFile=getOutputMediaFile();
                     OutputStream outputStream=null;
                     try
                     {
-                        outputStream=new FileOutputStream(file12);
+                        outputStream=new FileOutputStream(oFile);
                         outputStream.write(bytes);
                     }catch (Exception e)
                     {
@@ -273,10 +270,10 @@ public class CameraFragment extends Fragment {
         File mediaStorageDir = new File(
                 Environment
                         .getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES),
-                "MyCameraApp");
+                "ESamuPictures");
         if (!mediaStorageDir.exists()) {
             if (!mediaStorageDir.mkdirs()) {
-                Log.d("MyCameraApp", "failed to create directory");
+                Log.d("ESamu_CameraFrag", "failed to create directory");
                 return null;
             }
         }
@@ -285,7 +282,7 @@ public class CameraFragment extends Fragment {
                 .format(new Date());
         File mediaFile;
         mediaFile = new File(mediaStorageDir.getPath() + File.separator
-                + "IMG_" + timeStamp + ".jpg");
+                + "ESamu_IMG_" + timeStamp + ".jpg");
         return mediaFile;
     }
 
@@ -293,7 +290,6 @@ public class CameraFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        // Inflate the layout for this fragment
         return inflater.inflate(R.layout.camera_fragment, container, false);
     }
 
@@ -312,7 +308,7 @@ public class CameraFragment extends Fragment {
                 }
             });
         }catch (NullPointerException e){
-            Log.d("camera_fragment", "findViewById threw a NullPointerException. This should not happen here, really.");
+            Log.d("ESamu_CameraFrag", "findViewById threw a NullPointerException. This should not happen here. Really.");
         }
 
     }

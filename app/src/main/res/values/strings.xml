@@ -9,5 +9,5 @@
     <string name="title_activity_maps">Map</string>
     <string name="title_item_list">Items</string>
     <string name="title_item_detail">Item Detail</string>
-    <string name="button_get_picture">Get Picture</string>
+    <string name="button_get_picture">Gather</string>
 </resources>
